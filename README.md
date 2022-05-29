@@ -1,7 +1,7 @@
 # Netflix-Clone
 Netflix Clone Recommendation Engine Using Content Based Filtering
 Uses Algorithms like:
-Vectorization
+Vectorization,
 Cosine-Similarity
 
 Api key link :
