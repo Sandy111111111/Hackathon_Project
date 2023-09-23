@@ -1,4 +1,4 @@
-## Movie Recommender System
+## Smart Movie Recommender Bot
 
 ## Overview
 This Movie Recommender System, categorized under semantic analysis, offers personalized movie suggestions using vectorization and cosine similarity techniques.
